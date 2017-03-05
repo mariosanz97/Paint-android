@@ -17,9 +17,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 
-/**
- * Created by Profesor on 29/10/2015.
- */
+
 public class Lienzo extends View {
 
     private Path drawPath;
